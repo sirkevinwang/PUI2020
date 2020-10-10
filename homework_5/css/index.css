@@ -1,0 +1,34 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+    background: linear-gradient(
+          rgba(0, 0, 0, 0.1), 
+          rgba(0, 0, 0, 0)
+        ),
+        url("../img/cover.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 4.25em;
+  margin: 0 0;
+  margin-top: 1.825em;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 2.75em;
+  margin: 0 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
