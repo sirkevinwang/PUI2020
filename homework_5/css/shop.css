@@ -36,6 +36,7 @@ h4 {
   font-family: 'SF Compact';
   font-weight: 500;
   font-size: 1.75em;
+  padding-left: .65em;
 }
 
 h5 {
@@ -58,7 +59,9 @@ a {
 .flavor-grid {
   display: grid;
   grid-template-columns: auto auto auto;
-  column-gap: 5em;
+  column-gap: 4.5em;
+  align-items: center;
+  justify-items: center;
 }
 
 .flavor-item {
