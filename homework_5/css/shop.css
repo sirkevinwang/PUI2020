@@ -41,6 +41,8 @@ h4 {
 h5 {
   font-size: 1.5em;
   text-align: center;
+  margin-top: 1em;
+  font-weight: 500;
 }
 
 a {
@@ -78,6 +80,10 @@ a {
 #walnut {
   background-color: #8D775C;
   filter: drop-shadow(4px 4px 20px #8D775C);
+}
+
+#walnut img {
+  height: 13em;
 }
 
 #bb {
