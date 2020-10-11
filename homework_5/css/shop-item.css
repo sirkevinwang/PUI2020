@@ -1,0 +1,108 @@
+/* Cover */
+.intro-section {
+  height: 15vh;
+}
+
+.container {
+  padding-right: 10vw;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 4.25em;
+  margin: 0 0;
+}
+
+h3 {
+  font-family: 'Canela';
+  font-weight: 400;
+  font-size: 2.75em;
+  margin: 0 0;
+}
+
+.category span {
+  font-size: 2em;
+  font-weight: 600;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.flavors-content {
+  padding: 0 25vw;
+}
+
+.price {
+  font-family: 'SF Compact';
+  color: #c8c8c8;
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+.order-info {
+  float: left;
+}
+
+.product-image {
+  float: left;
+}
+
+/* Custom Radios */
+.option {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-family: 'SF Compact';
+  font-weight: 500;
+  font-size: 1.2em;
+}
+
+.option input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: ;
+  border: white 2px solid;
+  border-radius: 50%;
+}
+
+.option:hover input ~ .checkmark {
+  background-color: rgba(255, 255, 255, 0.3);;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+.option input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.option .checkmark:after {
+  top: 7px;
+  left: 7px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: white;
+}

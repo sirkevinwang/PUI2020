@@ -27,3 +27,9 @@
   src: url(../fonts/SF-Compact-Display-Light.otf);
   font-weight: 300;
 }
+
+@font-face {
+  font-family: 'Canela';
+  src: url(../fonts/Canela-Regular.otf);
+  font-weight: 400;
+}

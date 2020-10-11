@@ -1,4 +1,5 @@
-/* Shared Utility */
+/* Main */
+
 html {
   background-color: black;
 }
@@ -33,6 +34,8 @@ body {
   height: 4em;
 }
 
+/* Shared Utilities */
+
 .text-center {
   text-align: center;
 }
@@ -66,9 +69,17 @@ body {
   padding: 2em;
 }
 
+.py-2 {
+  padding: 1em 0;
+}
+
 .px-2 {
   padding-left: 1em;
   padding-right: 1em;
+}
+
+.pb-2 {
+  padding-bottom: 1em;
 }
 
 /* Controls */ 
