@@ -8,3 +8,4 @@ https://thenounproject.com/search/?q=pumpkin&i=3392490 by Samsul Rizal
 https://thenounproject.com/search/?q=walnut&i=66635 by Marco Galtarossa
 https://thenounproject.com/search/?q=pecan&i=545442 by icon 54
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_custom_radio
+https://thenounproject.com/search/?q=salt+shaker&i=2764337 by Vectorstall

@@ -35,7 +35,6 @@ body {
 }
 
 /* Shared Utilities */
-
 .text-center {
   text-align: center;
 }
@@ -56,6 +55,10 @@ body {
   transform: translate(-50%, 0%);
 }
 
+.py-8 {
+  padding: 4em 0;
+}
+
 .my-4 {
   margin-top: 2em;
   margin-bottom: 2em;
@@ -65,8 +68,16 @@ body {
   margin-bottom: 2em;
 }
 
+.pb-4 {
+  padding-bottom: 2em;
+}
+
 .p-4 {
   padding: 2em;
+}
+
+.py-4 {
+  padding: 2em 0;
 }
 
 .py-2 {
