@@ -1,5 +1,10 @@
 # PUI-A5
 
+## Extra Work Done for Extra Credit
+- Backberry Delight (flavor in addition to original) Product Page
+- Added favicons
+- Implemented custom controls (using only CSS)
+
 ## Images Cited
 - https://www.forksoverknives.com/recipes/vegan-desserts/apple-maple-cinnamon-rolls/
 - https://vsoch.github.io/40-avocados/cinnamon-bun/ 
