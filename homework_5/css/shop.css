@@ -1,11 +1,11 @@
 /* Cover */
 .top-cover {
-    background: linear-gradient(
-          rgba(0, 0, 0, 0.1), 
-          rgba(0, 0, 0, 0)
-        ),
-        url("../img/cover.png");
-  background-position: center;
+  background: linear-gradient(
+        rgba(0, 0, 0, 0.12), 
+        rgba(0, 0, 0, 0.12)
+      ),
+      url("../img/cover.png");
+  background-position: left;
   background-repeat: no-repeat;
   background-size: cover;
 }
