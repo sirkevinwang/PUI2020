@@ -5,8 +5,8 @@ html {
 
 body {
     background: linear-gradient(
-          rgba(0, 0, 0, 0.1), 
-          rgba(0, 0, 0, 0)
+          rgba(0, 0, 0, 0.12), 
+          rgba(0, 0, 0, 0.12)
         ),
         url("../img/cover.png");
   background-position: center;
